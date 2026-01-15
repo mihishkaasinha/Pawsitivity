@@ -1,0 +1,8 @@
+{
+  "name": "Pawsitivity",
+  "description": "An AI-powered pet care platform tailored for Indian pet owners, featuring health tracking, community forums, and an AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
